@@ -32,7 +32,7 @@ Scenario
 Little Lemon has an Excel sheet file with thousands of records of data on orders made between 2019 and 2023. Little Lemon needs to filter the data, analyze it and create visual charts in the form of an interactive dashboard to help them understand their business performance, so they can increase their sales and profits.
 Prerequisites:
 
-{excel prerequisite}(LittleLemonDB Excel.xlsx)
+LittleLemonDB Excel.xlsx
 
 Steps:
 
