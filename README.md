@@ -17,6 +17,9 @@ Little Lemon needs to build a robust relational database system in MySQL in whic
 
 In the first task, I built a relational database system for Little Lemon Restaurant by designing a well-structured entity model or Diagram that conforms to the three fundamental normal forms. I designed the Diagram using MySQL workbench, a unified visual tool used for database modeling and management. Forward Engineering was applied to create a database from this relational model.
 
+![image](https://github.com/anuta7794/Database_Engineer_Capstone_Project/assets/153844737/4c538579-395b-4c6e-ba21-5d0360465128)
+
+
  
 
 Task 2.
