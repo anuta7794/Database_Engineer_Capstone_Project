@@ -4,9 +4,11 @@ This work is a part of Capstone project for Meta Database Engineer Certificate. 
 Task 1.
 
 •	Set up a MySQL instance server in MySQL Workbench.
+
 •	Create and implement an ER diagram data model.
 
-Scenario 
+Scenario:
+
 Little Lemon needs to build a robust relational database system in MySQL in which they can store large amounts of data. They then need to easily manage and find this data as required. This database system should maintain information about the following aspects of the business: 
 	Bookings.
 	Orders.
@@ -28,8 +30,10 @@ Task 2.
 
 In the next task, I helped Little Lemon use their data to generate business insights. I carried out this task using Tableau, the data visualization tool. I used LittleLemonDB Excel file as my data source. You'll first connect your data sources to tableau. I then prepared my data for analysis and focused on the most relevant data. The next step was to create a visualization of my data using its UI elements. Finally, I used Tableau to produce interactive real time data visualizations in the form of dashboards.
 
-Scenario 
+Scenario:
+
 Little Lemon has an Excel sheet file with thousands of records of data on orders made between 2019 and 2023. Little Lemon needs to filter the data, analyze it and create visual charts in the form of an interactive dashboard to help them understand their business performance, so they can increase their sales and profits.
+
 Prerequisites:
 
 LittleLemonDB Excel.xlsx
