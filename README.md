@@ -47,5 +47,3 @@ Steps:
 5)	I created a “Sales Bubble Chart” for all customers. Once you roll over a bubble, the chart shows the name, profit and sale.
 6)	Then, I needed to compare the sales of the three different cuisines sold at Little Lemon. I created a “Cuisine Sales and Profits” bar chart that shows the sales of the Turkish, Italian and Greek cuisines. Then, I displayed sales data for 2020, 2021, and 2022 only. Each bar displays the profit of each cuisine. 
 7)	In this final task, I needed to create an interactive dashboard that combines the Bar chart called Customers sales and the Sales Bubble Chart. Once you click a bar, and roll over the related bubble, the name, sales and profit figures should be displayed in the Bubble chart as shown below.
-
-[Tableau Public](https://public.tableau.com/views/LittleLemon_SalesReport/SalesLittleLemonReport?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
