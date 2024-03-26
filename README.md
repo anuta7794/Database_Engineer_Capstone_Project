@@ -45,7 +45,7 @@ LittleLemonDB Excel.xlsx
 
 2)	I created a new data field that stores the profits for each sale.
 
-![5_Sales_Report_Dashboard](https://github.com/anuta7794/Database_Engineer_Capstone_Project/assets/153844737/d2822a7f-9c50-4f36-8555-d8b38c79e3c8)
+![CalculatedField](https://github.com/anuta7794/Database_Engineer_Capstone_Project/assets/153844737/0fd44a19-80c7-4dbb-a5a9-f62b75e221b0)
 
 3)	I created a bar chart “Customers Sales” that shows customers sales and filtered data based on sales with at least $70.
 
