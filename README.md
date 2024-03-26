@@ -44,7 +44,8 @@ LittleLemonDB Excel.xlsx
 1)	I connected to Little Lemon data stored in the Excel Sheet called LittleLemonDB. Then I filtered data in the data source page and selected the United States as the country.
 
 2)	I created a new data field that stores the profits for each sale.
-![CalculatedField](https://github.com/anuta7794/Database_Engineer_Capstone_Project/assets/153844737/e6d04156-4e43-4394-9447-0ce1f07e75de)
+
+![5_Sales_Report_Dashboard](https://github.com/anuta7794/Database_Engineer_Capstone_Project/assets/153844737/d2822a7f-9c50-4f36-8555-d8b38c79e3c8)
 
 3)	I created a bar chart “Customers Sales” that shows customers sales and filtered data based on sales with at least $70.
 
