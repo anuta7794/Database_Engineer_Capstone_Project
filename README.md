@@ -42,12 +42,15 @@ LittleLemonDB Excel.xlsx
 ### _*Steps:*_
 
 1)	I connected to Little Lemon data stored in the Excel Sheet called LittleLemonDB. Then I filtered data in the data source page and selected the United States as the country.
-2)	I created a new data field that stores the profits for each sale.
-3)	I created a bar chart “Customers Sales” that shows customers sales and filtered data based on sales with at least $70.
-4)	I created a line “Profit Chart” to show the sales trend from 2019 to 2022.
-5)	I created a “Sales Bubble Chart” for all customers. Once you roll over a bubble, the chart shows the name, profit and sale.
-6)	Then, I needed to compare the sales of the three different cuisines sold at Little Lemon. I created a “Cuisine Sales and Profits” bar chart that shows the sales of the Turkish, Italian and Greek cuisines. Then, I displayed sales data for 2020, 2021, and 2022 only. Each bar displays the profit of each cuisine. 
-7)	In this final task, I needed to create an interactive dashboard that combines the Bar chart called Customers sales and the Sales Bubble Chart. Once you click a bar, and roll over the related bubble, the name, sales and profit figures should be displayed in the Bubble chart as shown below.
+
+   ![1_Customer_Sales](https://github.com/anuta7794/Database_Engineer_Capstone_Project/assets/153844737/de8719a1-8ebb-4432-837d-345c72b972be)
+
+3)	I created a new data field that stores the profits for each sale.
+4)	I created a bar chart “Customers Sales” that shows customers sales and filtered data based on sales with at least $70.
+5)	I created a line “Profit Chart” to show the sales trend from 2019 to 2022.
+6)	I created a “Sales Bubble Chart” for all customers. Once you roll over a bubble, the chart shows the name, profit and sale.
+7)	Then, I needed to compare the sales of the three different cuisines sold at Little Lemon. I created a “Cuisine Sales and Profits” bar chart that shows the sales of the Turkish, Italian and Greek cuisines. Then, I displayed sales data for 2020, 2021, and 2022 only. Each bar displays the profit of each cuisine. 
+8)	In this final task, I needed to create an interactive dashboard that combines the Bar chart called Customers sales and the Sales Bubble Chart. Once you click a bar, and roll over the related bubble, the name, sales and profit figures should be displayed in the Bubble chart as shown below.
 
 ### _*Link to the viz/final dashboard in Tableau Public:*_
 
