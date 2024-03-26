@@ -25,21 +25,21 @@ In the first task, I built a relational database system for Little Lemon Restaur
 
  
 
-Task 2.
+## Task 2.
 
 •	Work with Tableau to create interactive dashboards.
 
 In the next task, I helped Little Lemon use their data to generate business insights. I carried out this task using Tableau, the data visualization tool. I used LittleLemonDB Excel file as my data source. You'll first connect your data sources to tableau. I then prepared my data for analysis and focused on the most relevant data. The next step was to create a visualization of my data using its UI elements. Finally, I used Tableau to produce interactive real time data visualizations in the form of dashboards.
 
-Scenario:
+### _*Scenario:*_
 
 Little Lemon has an Excel sheet file with thousands of records of data on orders made between 2019 and 2023. Little Lemon needs to filter the data, analyze it and create visual charts in the form of an interactive dashboard to help them understand their business performance, so they can increase their sales and profits.
 
-Prerequisites:
+### _*Prerequisites:*_
 
 LittleLemonDB Excel.xlsx
 
-Steps:
+### _*Steps:*_
 
 1)	I connected to Little Lemon data stored in the Excel Sheet called LittleLemonDB. Then I filtered data in the data source page and selected the United States as the country.
 2)	I created a new data field that stores the profits for each sale.
@@ -49,6 +49,6 @@ Steps:
 6)	Then, I needed to compare the sales of the three different cuisines sold at Little Lemon. I created a “Cuisine Sales and Profits” bar chart that shows the sales of the Turkish, Italian and Greek cuisines. Then, I displayed sales data for 2020, 2021, and 2022 only. Each bar displays the profit of each cuisine. 
 7)	In this final task, I needed to create an interactive dashboard that combines the Bar chart called Customers sales and the Sales Bubble Chart. Once you click a bar, and roll over the related bubble, the name, sales and profit figures should be displayed in the Bubble chart as shown below.
 
-Link to the viz/final dashboard in Tableau Public:
+### _*Link to the viz/final dashboard in Tableau Public:*_
 
 [Tableau Public "Little Lemon Sales Report"](https://github.com/anuta7794/Database_Engineer_Capstone_Project/blob/bad50d355f6683624ad1b73ed38c5a7059fb0587/Tableau_Sales_Report/Tableau)
