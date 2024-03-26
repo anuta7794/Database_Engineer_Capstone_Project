@@ -1,6 +1,6 @@
 # **Database_Engineer_Capstone_Project**
 
-This work is a part of Capstone project for Meta Database Engineer Certificate. I demonstrate my new data visualization skills by helping Little Lemon restaurant complete a series of database related tasks. These tasks include setting up a database in MySQL workbench using a MySQL instance server, creating an Entity Relationship Diagram and implementing it in MySQL workbench, and finally generating data insights using data analytics.
+This work is a part of Capstone project for Meta Database Engineer Certificate. I demonstrate my new data visualization skills by helping Little Lemon restaurant complete a series of database related tasks. These tasks include setting up a database in MySQL Workbench using a MySQL instance server, creating an Entity Relationship Diagram and implementing it in MySQL workbench, and finally generating data insights using data analytics.
 
 ## **Task 1.**
 
@@ -18,7 +18,7 @@ Little Lemon needs to build a robust relational database system in MySQL in whic
 	Customer details.
 	and Staff information.
 
-In the first task, I built a relational database system for Little Lemon Restaurant by designing a well-structured entity model or Diagram that conforms to the three fundamental normal forms. I designed the Diagram using MySQL workbench, a unified visual tool used for database modeling and management. Forward Engineering was applied to create a database from this relational model.
+In the first task, I built a relational database system for Little Lemon Restaurant by designing a well-structured entity model or Diagram that conforms to the three fundamental normal forms. I designed the Diagram using MySQL Workbench, a unified visual tool used for database modeling and management. Forward Engineering was applied to create a database from this relational model.
 
 ![image](https://github.com/anuta7794/Database_Engineer_Capstone_Project/assets/153844737/4c538579-395b-4c6e-ba21-5d0360465128)
 
