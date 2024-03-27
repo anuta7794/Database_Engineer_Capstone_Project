@@ -63,9 +63,9 @@ LittleLemonDB Excel.xlsx
 
 ![4_Cuisine_Sales_and_Profits](https://github.com/anuta7794/Database_Engineer_Capstone_Project/assets/153844737/a21d5e29-b433-444c-b54a-08f2b9c1aa5f)
 
-7)	In this final task, I needed to create an interactive dashboard that combines the Bar chart called Customers sales and the Sales Bubble Chart. Once you click a bar, and roll over the related bubble, the name, sales and profit figures should be displayed in the Bubble chart.
+7)	In this final task, I needed to create an interactive dashboard that combines all four charts. Once you click a bar, and roll over the related bubble, the name, sales and profit figures should be displayed.
 
-![5_Sales_Report_Dashboard](https://github.com/anuta7794/Database_Engineer_Capstone_Project/assets/153844737/84238197-2c3d-444c-a6cc-7310d853a1ca)
+![Sales_Report_Dashboard](https://github.com/anuta7794/Database_Engineer_Capstone_Project/assets/153844737/6d950576-65a8-44c3-82b4-f76fc24f28de)
 
 ### _*Link to the viz/final dashboard in Tableau Public:*_
 
